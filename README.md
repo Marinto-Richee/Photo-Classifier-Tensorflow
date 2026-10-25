@@ -14,7 +14,7 @@ This script demonstrates how to build, train, and save a Convolutional Neural Ne
 2. Install the necessary dependencies:
 
    ```bash
-   pip install tensorflow
+   pip install -r requirements.txt
    ```
 
 3. Download the dataset and organize it in the specified directory `images`.
